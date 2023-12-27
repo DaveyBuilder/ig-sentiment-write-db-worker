@@ -188,5 +188,45 @@ export const all_tickers = [
         name: "Ether",
         epic : "CS.D.ETHUSD.TODAY.IP",
         marketId : "ETHUSD"
+    },
+    {
+        name: "Hong Kong HS50",
+        epic : "IX.D.HANGSENG.DAILY.IP",
+        marketId : "HS34"
+    },
+    {
+        name: "US Russell 2000",
+        epic : "IX.D.RUSSELL.DAILY.IP",
+        marketId : "R2000"
+    },
+    {
+        name: "Japan 225",
+        epic : "IX.D.NIKKEI.DAILY.IP",
+        marketId : "JP225"
+    },
+    {
+        name: "AUD/USD",
+        epic : "CS.D.AUDUSD.TODAY.IP",
+        marketId : "AUDUSD"
+    },
+    {
+        name: "USD/CAD",
+        epic : "CS.D.USDCAD.TODAY.IP",
+        marketId : "USDCAD"
+    },
+    {
+        name: "USD/CHF",
+        epic : "CS.D.USDCHF.TODAY.IP",
+        marketId : "USDCHF"
+    },
+    {
+        name: "EUR/CHF",
+        epic : "CS.D.EURCHF.TODAY.IP",
+        marketId : "EURCHF"
+    },
+    {
+        name: "US Dollar Basket",
+        epic : "CC.D.DX.USS.IP",
+        marketId : "DX"
     }
 ];
